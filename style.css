@@ -1,0 +1,30 @@
+header, footer{
+    background: greenyellow;
+}
+
+main ul{
+    color: greenyellow
+}
+
+table td{
+    border:2px solid greenyellow;  border-collapse: collapse; color: greenyellow
+}
+
+h1, h2{
+    text-align: center; color: greenyellow
+}
+p {
+    color: greenyellow
+}
+
+main{
+    background: black
+}
+
+header a{
+    color:black
+}
+
+footer a {
+    color:black
+}
